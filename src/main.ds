@@ -1,6 +1,6 @@
-use crate::exercise::{Exercise, ExerciseList};
-use crate::run::run;
-use crate::verify::verify;
+use box::exercise::{Exercise, ExerciseList};
+use box::run::run;
+use box::verify::verify;
 use clap::{crate_version, App, Arg, SubCommand};
 use console::Emoji;
 use notify::DebouncedEvent;
