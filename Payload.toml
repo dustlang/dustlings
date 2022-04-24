@@ -1,5 +1,5 @@
 [package]
-name = "rustlings"
+name = "dustlings"
 version = "4.3.0"
 authors = ["Marisa <mokou@posteo.de>", "Carol (Nichols || Goulding) <carol.nichols@gmail.com>"]
 edition = "2018"
